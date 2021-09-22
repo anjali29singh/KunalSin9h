@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**KunalSin9h/KunalSin9h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👋 Hi, I’m Kunal Singh
+- I am learning to code to make to impact.
 
-Here are some ideas to get you started:
+[![KunalSin9h's GitHub stats](https://github-readme-stats.vercel.app/api?username=KunalSin9h&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KunalSin9h&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Top Repositories
+<a href="https://github.com/KunalSin9h/Playlist-Analysis">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KunalSin9h&repo=Playlist-Analysis" />
+</a>
+<a href="https://github.com/KunalSin9h/ethereum-org-website">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KunalSin9h&repo=ethereum-org-website" />
+</a>
+
+
