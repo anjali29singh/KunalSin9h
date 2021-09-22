@@ -13,12 +13,7 @@
 
 
 
-## 📊 My Github Stats
 
-
-
-[![KunalSin9h's GitHub stats](https://github-readme-stats.vercel.app/api?username=KunalSin9h&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KunalSin9h&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Top Repositories
 <a href="https://github.com/KunalSin9h/Playlist-Analysis">
