@@ -20,7 +20,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=KunalSin9h&repo=Playlist-Analysis" />
 </a>
 <a href="https://github.com/KunalSin9h/ethereum-org-website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KunalSin9h&repo=ethereum-org-website" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=KunalSin9h&repo=ethereum-org-website" />
 </a>
 
 ## Connect with me:
