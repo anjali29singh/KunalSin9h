@@ -17,7 +17,7 @@
 
 ### Top Repositories
 <a href="https://github.com/KunalSin9h/Playlist-Analysis">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=KunalSin9h&repo=Playlist-Analysis&show_owner=true" />
+  <img align="cebter" src="https://github-readme-stats.vercel.app/api/pin/?username=KunalSin9h&repo=Playlist-Analysis&show_owner=true" />
 </a>
 <a href="https://github.com/KunalSin9h/ethereum-org-website">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KunalSin9h&repo=ethereum-org-website&show_owner=true" />
