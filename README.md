@@ -17,24 +17,11 @@
 
 ### Top Repositories
 <a href="https://github.com/KunalSin9h/Playlist-Analysis">
-  <img align="cebter" src="https://github-readme-stats.vercel.app/api/pin/?username=KunalSin9h&repo=Playlist-Analysis&show_owner=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KunalSin9h&repo=Playlist-Analysis&show_owner=true&theme=buefy" />
 </a>
 <a href="https://github.com/KunalSin9h/ethereum-org-website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KunalSin9h&repo=ethereum-org-website&show_owner=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KunalSin9h&repo=ethereum-org-website&show_owner=true&theme=buefy" />
 </a>
 
-## Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/kunalsin9h/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/KunalSin9h"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/kunalsin9h/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 
-</p>
-
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=KunalSin9h">
-</a>
-<a href="https://github.com/KunalSin9h?tab=followers"><img src="https://img.shields.io/github/followers/KunalSin9h?label=Followers&style=social" alt="GitHub Badge"></a>
