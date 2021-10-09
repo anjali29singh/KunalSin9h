@@ -18,8 +18,8 @@
 <a href="https://github.com/KunalSin9h/Playlist-Analysis">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KunalSin9h&repo=Playlist-Analysis&show_owner=true&theme=buefy" />
 </a>
-<a href="https://github.com/KunalSin9h/ethereum-org-website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KunalSin9h&repo=ethereum-org-website&show_owner=true&theme=buefy" />
+<a href="https://github.com/KunalSin9h/Conway-Game-of-Life">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KunalSin9h&repo=Conway-Game-of-Life&show_owner=true&theme=buefy" />
 </a>
 
 
