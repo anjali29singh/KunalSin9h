@@ -1,4 +1,4 @@
-### Hi i am Kunal Singh![ThumbsUpAnthonyWiggleGIF](https://user-images.githubusercontent.com/94233830/141650007-a152a37e-94e3-4243-a3b3-5b02092d146e.gif)
+### Hi i am Kunal Singh👍
 
 <details>
   <summary>📊 <b><i>GitHub Stats</i></b></summary>
