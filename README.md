@@ -1,7 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kunal</h1>
-<h3 align="center">I'm a Learning Software Development.</h3>
+### Hi i am Kunal Singh👍
 
 <details>
   <summary>📊 <b><i>GitHub Stats</i></b></summary>
@@ -9,18 +6,3 @@
 
 
 </details> 
-
-
-
-
-
-### Top Repositories
-<a href="https://github.com/KunalSin9h/Playlist-Analysis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KunalSin9h&repo=Playlist-Analysis&show_owner=true&theme=buefy" />
-</a>
-<a href="https://github.com/KunalSin9h/Conway-Game-of-Life">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KunalSin9h&repo=Conway-Game-of-Life&show_owner=true&theme=buefy" />
-</a>
-
-
-
