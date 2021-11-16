@@ -1,8 +1,8 @@
-### Hi i am Kunal Singh
-i am CS student
-Passionate about everything related to tech
-Desire to build something that change other life
-Love Doing Competitive Coding
+#### Hi i am Kunal Singh
+i am CS student<br>
+Passionate about everything related to tech<br>
+Desire to build something that change other life<br>
+Love Doing Competitive Coding<br>
 
 
 
