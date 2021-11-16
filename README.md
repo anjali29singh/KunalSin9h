@@ -1,7 +1,10 @@
 ### Hi i am Kunal Singh
-#### i am CS student
-#### Passionate about everything related to tech
-#### Desire to build something that change other life
+i am CS student
+Passionate about everything related to tech
+Desire to build something that change other life
+Love Doing Competitive Coding
+
+
 
 <details>
   <summary>📊 <b><i>GitHub Stats</i></b></summary>
